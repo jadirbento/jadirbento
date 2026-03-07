@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, sou o Jadir 👋
 
-<!--
-**jadirbento/jadirbento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de software com foco em Laravel e sistemas para pequenas e médias empresas.
 
-Here are some ideas to get you started:
+Fundei a **[Sistelia Tecnologia](https://sistelia.com.br)**, onde desenvolvemos sistemas personalizados, automações e plataformas SaaS prontas para uso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack principal
+
+Laravel · Livewire · Alpine.js · Tailwind CSS · Filament · Flutter · n8n
+
+---
+
+## 🚀 Produtos que criei
+
+| Produto | O que faz |
+|---|---|
+| [FlexFinance](https://github.com/Sistelia-Tecnologia/flexfinance) | Gestão financeira, estoque e CRM |
+| [ControlEdu](https://github.com/Sistelia-Tecnologia/controledu) | Gestão escolar completa |
+| [FlexFood](https://github.com/Sistelia-Tecnologia/flexfood) | Food service e delivery |
+
+---
+
+## 📬 Contato
+
+🌐 [sistelia.com.br](https://sistelia.com.br) · ✉️ contato@sistelia.com.br
+```
