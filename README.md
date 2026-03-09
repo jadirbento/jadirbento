@@ -14,11 +14,14 @@ Laravel · Livewire · Alpine.js · Tailwind CSS · Filament · Flutter · n8n
 
 ## 🚀 Produtos que criei
 
-| Produto | O que faz |
-|---|---|
-| [FlexFinance](https://github.com/Sistelia-Tecnologia/flexfinance) | Gestão financeira, estoque e CRM |
-| [ControlEdu](https://github.com/Sistelia-Tecnologia/controledu) | Gestão escolar completa |
-| [FlexFood](https://github.com/Sistelia-Tecnologia/flexfood) | Food service e delivery |
+| Produto | Segmento | Demo |
+|---|---|---|
+| [BasePedido](https://github.com/Sistelia-Tecnologia/basepedido) | Estoque e gestão de pedidos |  [Ver demo](https://github.com/Sistelia-Tecnologia/basepedido) |
+| [GiroPronto](https://github.com/Sistelia-Tecnologia/giropronto) | Financeiro e fluxo de caixa |  [Ver demo](https://github.com/Sistelia-Tecnologia/giropronto) |
+| [ControlEDU](https://github.com/Sistelia-Tecnologia/controledu) | Gestão escolar completa |  [Ver demo](https://github.com/Sistelia-Tecnologia/controledu) |
+| [FlexiUni](https://github.com/Sistelia-Tecnologia/flexiuni) | Demo SaaS multi-tenant |  [Ver demo](https://github.com/Sistelia-Tecnologia/flexiuni) |
+
+
 
 ---
 
