@@ -27,5 +27,5 @@ Laravel · Livewire · Alpine.js · Tailwind CSS · Filament · Flutter · n8n
 
 ## 📬 Contato
 
-🌐 [sistelia.com.br](https://sistelia.com.br) · ✉️ contato@sistelia.com.br
+🌐 [sistelia.com.br](https://sistelia.com.br) · ✉️ jadir@sistelia.com.br
 ```
